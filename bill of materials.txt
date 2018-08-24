@@ -1,0 +1,17 @@
+controllers and interfactig
+	~1 raspberry pi
+	~1 arduino
+	~1 router
+	
+	
+for attenuators:
+	~1 decoder for LEs
+	~1 8 bit shift register
+	~3 zx76-CP+ Control Cable
+		~+ 3 breakouts
+
+for shifters: 
+	~3 pwm to dc
+		~quad opamp
+		~misc. resistors/caps (integrator)
+	
