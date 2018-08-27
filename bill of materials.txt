@@ -12,6 +12,5 @@ for attenuators:
 
 for shifters: 
 	~3 pwm to dc
-		~quad opamp
-		~misc. resistors/caps (integrator)
+		~misc. components (integrator)
 	
