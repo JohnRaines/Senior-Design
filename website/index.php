@@ -47,6 +47,7 @@
 	</form>
 	
 
+	<! open the file, read the values, and generate the current status table>
 	<?php
 	$filename = 'values.txt';
 	$file = fopen($filename, "r");

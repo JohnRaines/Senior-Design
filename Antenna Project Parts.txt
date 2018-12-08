@@ -1,9 +1,0 @@
-1x Arduino Due
-1x Raspberry Pi 3B+
-1x router
-2x Ethernet cables
-3x USB A to Micro
-3x ZX76CP+ control cables (Mini circuits)
-3x 2n2904 npn BJT
-5x TL064 Quad OpAmp
-4x SN74HC595N 8 bit shift register
